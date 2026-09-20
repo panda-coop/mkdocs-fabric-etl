@@ -7,10 +7,12 @@ name = "mkdocs-fabric-etl"
 version = "0.0.0"
 description = "MkDocs plugin for Microsoft Fabric ETL documentation"
 readme = "README.md"
+license = { text = "GPL-3.0-or-later" }
 requires-python = ">=3.9"
 authors = [{ name = "Panda Coop" }]
 classifiers = [
     "Development Status :: 1 - Planning",
+    "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
 ]
 
 [project.urls]
