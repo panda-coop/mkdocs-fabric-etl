@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "mkdocs-fabric-etl"
-version = "0.0.0"
+version = "0.0.1"
 description = "MkDocs plugin for Microsoft Fabric ETL documentation"
 readme = "README.md"
 license = { text = "GPL-3.0-or-later" }
